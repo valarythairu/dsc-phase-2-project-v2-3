@@ -48,11 +48,10 @@ beta2 - coefficient of the variable etc. upto beta19
 1. This dataset provides insightful data that is very helpful to realtors and homeowners.
 2. The square foot living space in the home(sqft_living) according to the model has the highest positive effect on a house's sale price in that a bigger sqft_living increases a house's sale price.
 3. The square foot of the basement (sqft_basement) has had the second highest positive effect on the house's sale price.
+4. The variables in the data which were tested for their relationship with price each had a different effect on the house's sale price some had negative effects on price others had positive effects on price. So these are the variables that had a positive effect on the house's sale price: 'sqft_living', 'sqft_basement', 'sqft_above', 'floors', 'bathrooms', 'condition', and 'sqft_living15'.
+#### These factors/variables have been explained well in the notebook what they represent.
 
-### Recommendations
-1. The real estate agency should increase square foot living space in home as it increases sales prices of the homes, they should also focus on increasing square foot of the basement. These two factors have the highest positive effect on houses sale price hence are very important.
-2. Consider other algorithms beyond multiple linear regression.
-3. As according to my findings, homeowners should also focus on the number of bathrooms, square-foot living space in the home, Square footage of the house apart from the basement, Square footage of the basement, and number of floors when they want to do home renovations as these factors affect the price of houses positively.
+
 
 
 
