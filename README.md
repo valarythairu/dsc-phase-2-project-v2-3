@@ -30,6 +30,20 @@ In this section:
 ### Modelling 
 I used linear regression models to identify the relationships between house sale prices and the different factors of a house affecting it.
 
+### Regression results
+1. The model is overall statistically significant with an f-statistic p-value well below 0.05.
+
+2. The coefficient 'sqft_lot' is not statistically significant as its p-value is well above 0.05.
+
+3. The remaining coefficients are statistically significant with P values well below 0.05.
+
+4. Based on the summary model it can summarize as follows:
+y= c + beta1x1 + beta2x2 ...... beta19x19
+
+where; c is the Intercept
+beta1 - coefficient of the variable
+beta2 - coefficient of the variable etc. upto beta19
+
 ### Conclusions.
 1. This dataset provides insightful data that is very helpful to realtors and homeowners.
 2. The square foot living space in the home(sqft_living) according to the model has the highest positive effect on a house's sale price in that a bigger sqft_living increases a house's sale price.
